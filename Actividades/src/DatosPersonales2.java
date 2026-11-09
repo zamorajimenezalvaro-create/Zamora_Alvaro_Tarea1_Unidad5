@@ -8,7 +8,7 @@ import javax.swing.JOptionPane;
 public class DatosPersonales2 {
     public static void main(String[] args) {
         
-        // Uso de bucle infinito controlado mediante sentencias de salto (break y continue)
+        // Uso de bucle infinito 'while' controlado mediante sentencias de salto (break y continue)
         while (true) {
             String nombre = JOptionPane.showInputDialog(null, "Introduce tu nombre:", "Datos personales", JOptionPane.QUESTION_MESSAGE);
             
