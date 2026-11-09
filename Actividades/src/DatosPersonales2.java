@@ -43,7 +43,7 @@ public class DatosPersonales2 {
                     + "Lugar de nacimiento: " + lugarNacimiento + "\n"
                     + "Cumpleaños: " + cumpleanos;
 
-            JOptionPane.showMessageDialog(null, mensaje, "Ficha Personal", JOptionPane.INFORMATION_MESSAGE);
+            JOptionPane.showMessageDialog(null, mensaje, "Ficha personal", JOptionPane.INFORMATION_MESSAGE);
 
             // Preguntar al usuario si desea realizar otro registro
             int opcion = JOptionPane.showConfirmDialog(null, "¿Deseas registrar otra persona?", "Nuevo registro", JOptionPane.YES_NO_OPTION);
