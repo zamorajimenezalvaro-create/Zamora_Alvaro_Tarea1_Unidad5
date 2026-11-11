@@ -1,4 +1,4 @@
-/**
+/*
  * 2. Crea un programa que te pida el nombre, los apellidos, la edad, el lugar de nacimiento y tu cumpleaños,
  *    puedes mostrar los datos utilizando JoptionPane.
 */
