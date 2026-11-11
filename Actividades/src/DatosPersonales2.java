@@ -1,4 +1,4 @@
-/**
+/*
  * 3. Investiga un poco más el uso de las sentencias de salto en java y utiliza alguna de ellas en el código que has
  *    creado en el ejercicio anterior. Utiliza las herramientas de depuración de código que ya hemos visto anteriormente.
 */
